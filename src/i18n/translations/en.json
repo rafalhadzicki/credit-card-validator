@@ -1,0 +1,19 @@
+{
+  "creditCardModal": {
+    "title": "Add Credit Card",
+    "cardNumber": "Card Number",
+    "cardHolder": "Card Holder",
+    "expirationDate": "Expiration Date (MM/YY)",
+    "cvv": "CVV",
+    "submit": "Submit",
+    "emptyField": "This field is required",
+    "invalidCardNumber": "Invalid card number",
+    "invalidCardHolder": "Invalid card holder",
+    "invalidExpirationDate": "Invalid expiration date",
+    "invalidCvv": "Invalid CVV",
+    "expiredCard": "Your card has expired",
+    "invalidCard": "Your card is invalid",
+    "cardAdded": "Your card has been added",
+    "serverError": "Server error"
+  }
+}
